@@ -24,10 +24,9 @@ This project is dedicated to my valentine. It was made with love and care, and I
 
 - `index.html`: The main page of the project.
 - `flowers.html`: The secondary page with animated flowers.
-- `style.css`: The CSS file for the main page.
 - `main.js`: The JavaScript file for the main page.
 - `css/main.css`: The CSS file for the secondary page.
-- `css/main.css.map`: The source map for the secondary page CSS.
+- `css/style.css`: The CSS file for the main page.
 
 ## How to Run
 
